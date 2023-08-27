@@ -1,0 +1,16 @@
+ID,Question,Answer,Type
+1,What is a laptop?,"A powerful portable computer offering similar functionality to a desktop computer with an integrated keyboard, built in screen and I/O ports on the side of the chassis.",1
+2,What are batteries for laptops?,A component for laptops to provide power to use the device with the majority of devices have a battery placed within the bottom of the laptop for easy access and requires disconnection from the motherboard before removal.,1
+3,What are tips for handling laptop batteries?,Handle laptop batteries with care since most are lithium-based and can cause fires if punctured or grounded.  It's wise to recycle old batteries and to never touch the electrical connections directly.,1
+4,What is a laptop keyboard?,"A typical keyboard that is cut down and typically lose features such as the numpad but they get replaced with function keys that activate a secondary use.  They're also backlit and are typically integrated directly into the laptop which makes replacement difficult, but keys can be replaced",1
+5,What is random access memory?,"A short term storage solution, which laptops utilize SODIMMs which can be accessed by a small panel on the bottom of a laptopor by removing the bottom half of the laptop shell.  Some laptops have non-removable RAM that is soldered onto the motherboard.  RAM can be DDR4 or DDR5 and need to be fully seated.  SODIMM RAM pivots in at an angle rather than snapping in vertically like desktop RAM.",1
+6,What is a hard drive and solid state drive?,"A long term storage solutiuon, which for laptops, usually use a 2.5"" form factor HDD/SSD or an m.2 form factor SSD.  ",1
+7,How can you replace a drive?,Laptops may have a removeable door on the bottom for easy storage replacement or requires the whole bottom case to be removed.,1
+8,What is drive migration?,A technique used when replacing or upgrading a storage drive.  This avoids the need to reinstall software and files and is often done with an external USB.,1
+9,What is a wireless card?,Most modern laptops utilize a m.2 or mini Pcle format which provides wireless connectivity for a device and is typically soldered directly onto the motherboard.,1
+10,What is biometrics for laptops?,Laptops can come equiped with a fingerprint scanner or facial recognition software for a security verification.,1
+11,What is a near-field scanner?,A method of authenticating to access devices where an NFC chip contains credentials and is pressed up next to a device to unlock features.,1
+12,Laptops are cheaper than desktops,TRUE,2
+13,A laptop is better for triple A title gaming,FALSE,2
+14,A laptop and desktop computer can utilize the same applications,TRUE,2
+15,Laptops are easy to use and portable,TRUE,2
